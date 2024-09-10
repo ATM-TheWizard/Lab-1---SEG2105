@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Jaden
 Emilee
+=======
+Emilee
+>>>>>>> e5ea6c5e34544a11e23b5408e50f4f0362ed7f46
